@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Moisés Gorisch
 
-<!--
-**MoisesGorisch/MoisesGorisch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IT Support & Software Developer** based in Curitiba, Brazil.
 
-Here are some ideas to get you started:
+I work at the intersection of IT support, software development and infrastructure, building practical solutions for everyday business needs. My focus includes web applications, APIs, system integrations and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+
+- **IT support:** troubleshooting, user support and maintaining business systems.
+- **Web development:** PHP, JavaScript, HTML and CSS.
+- **Databases:** MySQL and PostgreSQL.
+- **Infrastructure:** Windows Server and PowerShell.
+- **Integration & automation:** APIs, scripts and tools that simplify repetitive tasks.
+
+## Current interests
+
+I'm exploring **Applied AI**, local AI systems and practical ways to integrate AI into useful tools and workflows.
+
+## Let's connect
+
+I'm open to remote and international opportunities in IT support, software development and automation.
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/mois%C3%A9s-gorisch-3503883b8)
